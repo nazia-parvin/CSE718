@@ -22,4 +22,4 @@ Group Members:
 22273011 Salman Sadat Nur
 23166034 Nazia Parvin
 
-
+We also correctly have uploaded slide.PPT here.
