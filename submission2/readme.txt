@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+Modelling, Analysis, and Simulation of Measles Disease Transmission Dynamics
 
 Link to the paper:
-https://ieeexplore......
+https://www.hindawi.com/journals/ddns/2023/9353540/  
 
 Group Number:
 2
