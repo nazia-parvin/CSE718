@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+An emergency medical services system design using mathematical modeling and simulation-based optimization approaches
 
 Link to the paper:
-https://ieeexplore......
+https://www.sciencedirect.com/science/article/pii/S2772662222000200
 
 Group Number:
 2
