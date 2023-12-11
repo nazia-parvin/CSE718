@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/e/2PACX-1vTxJrBKKWWg6GWzESLj1Xq6cfcsre5zFZAKvwqBur-Yu75_THVztdGRcOBVtVYKJAPKjJr43t8X5zZd/pub?start=false&loop=false&delayms=3000 
 
 Paper title:
 An emergency medical services system design using mathematical modeling and simulation-based optimization approaches
